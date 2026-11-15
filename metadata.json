@@ -1,0 +1,7 @@
+{
+  "name": "Flag Clash Arena",
+  "description": "High-octane elimination arena game where 40 country flags battle inside a spinning vortex arena until one victor remains.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
